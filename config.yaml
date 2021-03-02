@@ -1,0 +1,5 @@
+spotify:
+  client-id: #Spotify Client ID
+  client-secret: #Spotify Client Secret
+youtube:
+  api-key: #Youtube API Key
