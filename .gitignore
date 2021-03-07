@@ -2,3 +2,4 @@ data/*
 **/log*
 .vscode
 **/config.yaml
+config.yaml
