@@ -3,3 +3,4 @@ data/*
 .vscode
 **/config.yaml
 config.yaml
+.idea/*
